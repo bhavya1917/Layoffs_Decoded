@@ -2,7 +2,7 @@
 
 Demo website
 
-http://ec2-3-94-101-23.compute-1.amazonaws.com:3000/
+http://ec2-34-238-244-151.compute-1.amazonaws.com:3000/
 
 ## Introduction
 
